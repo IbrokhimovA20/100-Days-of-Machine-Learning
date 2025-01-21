@@ -8,11 +8,8 @@ Welcome to my 100-day machine learning challenge! This repository documents my j
 
 ## 📂 Repository Structure:
 - `Week_1/`: Dataset Analysis and Exploration.
-  - `Day_1/`: Titanic Dataset EDA ([Notebook](Week_1/Day_1/Titanic_EDA.ipynb))
-  - `Day_2/`: Visualizations ([Notebook](Week_1/Day_2/Visualizations.ipynb))
-- `Week_2/`: Preprocessing Pipelines.
-  - `Day_8/`: Data Scaling ([Notebook](Week_2/Day_8/DataScaling.ipynb))
-- ...
+  - `Day_1/`: Titanic Dataset EDA ([Notebook](1-Day/main.ipynb))
+  - `Day_2/`: Visualizations ([Notebook](2-Day/main.ipynb))
 
 ## 📊 Datasets Used:
 1. Titanic Dataset ([Kaggle](https://www.kaggle.com/c/titanic)).
@@ -22,4 +19,3 @@ Welcome to my 100-day machine learning challenge! This repository documents my j
 |-----|------------------------------|--------|
 | 1   | Titanic EDA                  | ✅     |
 | 2   | Visualizations               | ✅     |
-| ... |                              |        |

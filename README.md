@@ -10,6 +10,7 @@ Welcome to my 100-day machine learning challenge! This repository documents my j
 - `Week_1/`: Dataset Analysis and Exploration.
   - `Day_1/`: Titanic Dataset EDA ([Notebook](1-Day/main.ipynb))
   - `Day_2/`: Visualizations ([Notebook](2-Day/main.ipynb))
+  - `Day_3/`: Handling missing values ([Notebook](3-Day/main.ipynb))
 
 ## 📊 Datasets Used:
 1. Titanic Dataset ([Kaggle](https://www.kaggle.com/c/titanic)).
@@ -17,5 +18,6 @@ Welcome to my 100-day machine learning challenge! This repository documents my j
 ## 🏆 Progress
 | Day | Task                         | Status |
 |-----|------------------------------|--------|
-| 1   | Titanic EDA                  | ✅     |
-| 2   | Visualizations               | ✅     |
+| 1   | Titanic EDA                  |   ✅   |
+| 2   | Visualizations               |   ✅   |
+| 3   | Handling missing values      |   ✅   |

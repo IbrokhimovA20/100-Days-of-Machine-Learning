@@ -24,4 +24,4 @@ Welcome to my 100-day machine learning challenge! This repository documents my j
 | 2   | Visualizations               |   ✅   |
 | 3   | Handling missing values      |   ✅   |
 | 4   | Categorical Data Handling    |   ✅   |
-| 5   | Correlation and Insights     |   ✅   
+| 5   | Correlation and Insights     |   ✅   |

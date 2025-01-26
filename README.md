@@ -14,6 +14,7 @@ Welcome to my 100-day machine learning challenge! This repository documents my j
   - `Day_4/`: Categorical Data Handling ([Notebook](4-Day/main.ipynb))
   - `Day_5/`: Correlation and Insights ([Notebook](5-Day/main.ipynb))
   - `Day_6/`: Feature Engineering ([Notebook](6-Day/main.ipynb))
+  - `Day_7/`: Titanic Dataset Cleaning ([Notebook](7-Day/main.ipynb))
 
 ## 📊 Datasets Used:
 1. Titanic Dataset ([Kaggle](https://www.kaggle.com/c/titanic)).
@@ -27,3 +28,4 @@ Welcome to my 100-day machine learning challenge! This repository documents my j
 | 4   | Categorical Data Handling    |   ✅   |
 | 5   | Correlation and Insights     |   ✅   |
 | 6   | Feature Engineering          |   ✅   |
+| 7   | Titanic Dataset Cleaning     |   ✅   |

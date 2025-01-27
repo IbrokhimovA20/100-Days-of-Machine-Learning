@@ -15,17 +15,21 @@ Welcome to my 100-day machine learning challenge! This repository documents my j
   - `Day_5/`: Correlation and Insights ([Notebook](5-Day/main.ipynb))
   - `Day_6/`: Feature Engineering ([Notebook](6-Day/main.ipynb))
   - `Day_7/`: Titanic Dataset Cleaning ([Notebook](7-Day/main.ipynb))
+- `Week_2/`: Preprocessing and Pipelines.
+  - `Day_8/`: Data Scaling and Normalization ([Notebook](8-Day/main.ipynb))
 
 ## 📊 Datasets Used:
 1. Titanic Dataset ([Kaggle](https://www.kaggle.com/c/titanic)).
+2. Boston Housing Dataset ([Kaggle](https://www.kaggle.com/code/prasadperera/the-boston-housing-dataset)).
 
 ## 🏆 Progress
-| Day | Task                         | Status |
-|-----|------------------------------|--------|
-| 1   | Titanic EDA                  |   ✅   |
-| 2   | Visualizations               |   ✅   |
-| 3   | Handling missing values      |   ✅   |
-| 4   | Categorical Data Handling    |   ✅   |
-| 5   | Correlation and Insights     |   ✅   |
-| 6   | Feature Engineering          |   ✅   |
-| 7   | Titanic Dataset Cleaning     |   ✅   |
+| Day | Task                            | Status |
+|-----|---------------------------------|--------|
+| 1   | Titanic EDA                     |   ✅   |
+| 2   | Visualizations                  |   ✅   |
+| 3   | Handling missing values         |   ✅   |
+| 4   | Categorical Data Handling       |   ✅   |
+| 5   | Correlation and Insights        |   ✅   |
+| 6   | Feature Engineering             |   ✅   |
+| 7   | Titanic Dataset Cleaning        |   ✅   |
+| 8   | Data Scaling and Normalization  |   ✅   |

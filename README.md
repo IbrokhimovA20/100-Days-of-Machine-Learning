@@ -18,7 +18,8 @@ Welcome to my 100-day machine learning challenge! This repository documents my j
 - `Week_2/`: Preprocessing and Pipelines.
   - `Day_8/`: Data Scaling and Normalization ([Notebook](8-Day/main.ipynb))
   - `Day_9/`: Building a Preprocessing Pipeline ([Notebook](9-Day/main.ipynb))
-  - `Day_10/`: Feature Selection ([Notebook](10-Day/main.ipynb))
+  - `Day_10/`: Feature Selection ([Notebook](:10-Day/main.ipynb))
+  - `Day_11/`: Full Preprocessing Pipeline ([Notebook](:11-Day/main.ipynb))
 
 ## 📊 Datasets Used:
 1. Titanic Dataset ([Kaggle](https://www.kaggle.com/c/titanic)).
@@ -37,3 +38,4 @@ Welcome to my 100-day machine learning challenge! This repository documents my j
 | 8   | Data Scaling and Normalization    |   ✅   |
 | 9   | Building a Preprocessing Pipeline |   ✅   |
 | 10  | Feature Selection                 |   ✅   |
+| 11  | Full Preprocessing Pipeline       |   ✅   |

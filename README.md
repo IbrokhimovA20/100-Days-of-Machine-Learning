@@ -20,10 +20,12 @@ Welcome to my 100-day machine learning challenge! This repository documents my j
   - `Day_9/`: Building a Preprocessing Pipeline ([Notebook](9-Day/main.ipynb))
   - `Day_10/`: Feature Selection ([Notebook](:10-Day/main.ipynb))
   - `Day_11/`: Full Preprocessing Pipeline ([Notebook](:11-Day/main.ipynb))
+  - `Day_12/`: EDA for a new dataset ([Notebook](:12-Day/main.ipynb))
 
 ## 📊 Datasets Used:
 1. Titanic Dataset ([Kaggle](https://www.kaggle.com/c/titanic)).
 2. Boston Housing Dataset ([Kaggle](https://www.kaggle.com/code/prasadperera/the-boston-housing-dataset)).
+3. Diabetes Dataset ([Kaggle](https://www.kaggle.com/datasets/mathchi/diabetes-data-set)).
 
 ## 🏆 Progress
 | Day | Task                              | Status |
@@ -39,3 +41,4 @@ Welcome to my 100-day machine learning challenge! This repository documents my j
 | 9   | Building a Preprocessing Pipeline |   ✅   |
 | 10  | Feature Selection                 |   ✅   |
 | 11  | Full Preprocessing Pipeline       |   ✅   |
+| 12  | EDA for a new dataset             |   ✅   |

@@ -21,6 +21,7 @@ Welcome to my 100-day machine learning challenge! This repository documents my j
   - `Day_10/`: Feature Selection ([Notebook](:10-Day/main.ipynb))
   - `Day_11/`: Full Preprocessing Pipeline ([Notebook](:11-Day/main.ipynb))
   - `Day_12/`: EDA for a new dataset ([Notebook](:12-Day/main.ipynb))
+  - `Day_13/`: Outlier Detection ([Notebook](:13-Day/main.ipynb))
 
 ## 📊 Datasets Used:
 1. Titanic Dataset ([Kaggle](https://www.kaggle.com/c/titanic)).
@@ -42,3 +43,4 @@ Welcome to my 100-day machine learning challenge! This repository documents my j
 | 10  | Feature Selection                 |   ✅   |
 | 11  | Full Preprocessing Pipeline       |   ✅   |
 | 12  | EDA for a new dataset             |   ✅   |
+| 13  | Outlier Detection                 |   ✅   |

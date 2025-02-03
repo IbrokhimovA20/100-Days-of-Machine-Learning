@@ -22,25 +22,29 @@ Welcome to my 100-day machine learning challenge! This repository documents my j
   - `Day_11/`: Full Preprocessing Pipeline ([Notebook](:11-Day/main.ipynb))
   - `Day_12/`: EDA for a new dataset ([Notebook](:12-Day/main.ipynb))
   - `Day_13/`: Outlier Detection ([Notebook](:13-Day/main.ipynb))
+  - `Day_14/`: Mini-Project: Dataset Cleaning and Preprocessing ([Notebook](:14-Day/main.ipynb))
 
 ## 📊 Datasets Used:
 1. Titanic Dataset ([Kaggle](https://www.kaggle.com/c/titanic)).
 2. Boston Housing Dataset ([Kaggle](https://www.kaggle.com/code/prasadperera/the-boston-housing-dataset)).
 3. Diabetes Dataset ([Kaggle](https://www.kaggle.com/datasets/mathchi/diabetes-data-set)).
+4. Heart Disease Dataset ([Kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)).
+
 
 ## 🏆 Progress
-| Day | Task                              | Status |
-|-----|-----------------------------------|--------|
-| 1   | Titanic EDA                       |   ✅   |
-| 2   | Visualizations                    |   ✅   |
-| 3   | Handling missing values           |   ✅   |
-| 4   | Categorical Data Handling         |   ✅   |
-| 5   | Correlation and Insights          |   ✅   |
-| 6   | Feature Engineering               |   ✅   |
-| 7   | Titanic Dataset Cleaning          |   ✅   |
-| 8   | Data Scaling and Normalization    |   ✅   |
-| 9   | Building a Preprocessing Pipeline |   ✅   |
-| 10  | Feature Selection                 |   ✅   |
-| 11  | Full Preprocessing Pipeline       |   ✅   |
-| 12  | EDA for a new dataset             |   ✅   |
-| 13  | Outlier Detection                 |   ✅   |
+| Day | Task                                             | Status |
+|-----|--------------------------------------------------|--------|
+| 1   | Titanic EDA                                      |   ✅   |
+| 2   | Visualizations                                   |   ✅   |
+| 3   | Handling missing values                          |   ✅   |
+| 4   | Categorical Data Handling                        |   ✅   |
+| 5   | Correlation and Insights                         |   ✅   |
+| 6   | Feature Engineering                              |   ✅   |
+| 7   | Titanic Dataset Cleaning                         |   ✅   |
+| 8   | Data Scaling and Normalization                   |   ✅   |
+| 9   | Building a Preprocessing Pipeline                |   ✅   |
+| 10  | Feature Selection                                |   ✅   |
+| 11  | Full Preprocessing Pipeline                      |   ✅   |
+| 12  | EDA for a new dataset                            |   ✅   |
+| 13  | Outlier Detection                                |   ✅   |
+| 14  | Mini-Project: Dataset Cleaning and Preprocessing |   ✅   |

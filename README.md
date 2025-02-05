@@ -17,8 +17,8 @@ Welcome to my 100-day machine learning challenge! This repository documents my j
   - `Day_7/`: Titanic Dataset Cleaning ([Notebook](7-Day/main.ipynb))
 - `Week_2/`: Preprocessing and Pipelines.
   - `Day_8/`: Data Scaling and Normalization ([Notebook](8-Day/main.ipynb))
-  - `Day_9/`: Building a Preprocessing Pipeline ([Notebook](9-Day/main.ipynb))
-  - `Day_10/`: Feature Selection ([Notebook](:10-Day/main.ipynb))
+  - `Day_9/`: Building a Preprocessing Pipeline ([Notebook](09-Day/main.ipynb))
+  - `Day_10/`: Feature Selection ([Notebook](10-Day/main.ipynb))
   - `Day_11/`: Full Preprocessing Pipeline ([Notebook](:11-Day/main.ipynb))
   - `Day_12/`: EDA for a new dataset ([Notebook](:12-Day/main.ipynb))
   - `Day_13/`: Outlier Detection ([Notebook](:13-Day/main.ipynb))

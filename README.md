@@ -8,21 +8,21 @@ Welcome to my 100-day machine learning challenge! This repository documents my j
 
 ## 📂 Repository Structure:
 - `Week_1/`: Dataset Analysis and Exploration.
-  - `Day_1/`: Titanic Dataset EDA ([Notebook](1-Day/main.ipynb))
-  - `Day_2/`: Visualizations ([Notebook](2-Day/main.ipynb))
-  - `Day_3/`: Handling missing values ([Notebook](3-Day/main.ipynb))
-  - `Day_4/`: Categorical Data Handling ([Notebook](4-Day/main.ipynb))
-  - `Day_5/`: Correlation and Insights ([Notebook](5-Day/main.ipynb))
-  - `Day_6/`: Feature Engineering ([Notebook](6-Day/main.ipynb))
-  - `Day_7/`: Titanic Dataset Cleaning ([Notebook](7-Day/main.ipynb))
+  - `Day_1/`: Titanic Dataset EDA ([Notebook](01-Day/main.ipynb))
+  - `Day_2/`: Visualizations ([Notebook](02-Day/main.ipynb))
+  - `Day_3/`: Handling missing values ([Notebook](03-Day/main.ipynb))
+  - `Day_4/`: Categorical Data Handling ([Notebook](04-Day/main.ipynb))
+  - `Day_5/`: Correlation and Insights ([Notebook](05-Day/main.ipynb))
+  - `Day_6/`: Feature Engineering ([Notebook](06-Day/main.ipynb))
+  - `Day_7/`: Titanic Dataset Cleaning ([Notebook](07-Day/main.ipynb))
 - `Week_2/`: Preprocessing and Pipelines.
-  - `Day_8/`: Data Scaling and Normalization ([Notebook](8-Day/main.ipynb))
+  - `Day_8/`: Data Scaling and Normalization ([Notebook](08-Day/main.ipynb))
   - `Day_9/`: Building a Preprocessing Pipeline ([Notebook](09-Day/main.ipynb))
   - `Day_10/`: Feature Selection ([Notebook](10-Day/main.ipynb))
-  - `Day_11/`: Full Preprocessing Pipeline ([Notebook](:11-Day/main.ipynb))
-  - `Day_12/`: EDA for a new dataset ([Notebook](:12-Day/main.ipynb))
-  - `Day_13/`: Outlier Detection ([Notebook](:13-Day/main.ipynb))
-  - `Day_14/`: Mini-Project: Dataset Cleaning and Preprocessing ([Notebook](:14-Day/main.ipynb))
+  - `Day_11/`: Full Preprocessing Pipeline ([Notebook](11-Day/main.ipynb))
+  - `Day_12/`: EDA for a new dataset ([Notebook](12-Day/main.ipynb))
+  - `Day_13/`: Outlier Detection ([Notebook](13-Day/main.ipynb))
+  - `Day_14/`: Mini-Project: Dataset Cleaning and Preprocessing ([Notebook](14-Day/main.ipynb))
 
 ## 📊 Datasets Used:
 1. Titanic Dataset ([Kaggle](https://www.kaggle.com/c/titanic)).

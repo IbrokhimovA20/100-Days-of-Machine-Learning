@@ -25,6 +25,7 @@ Welcome to my 100-day machine learning challenge! This repository documents my j
   - `Day_14/`: Mini-Project: Dataset Cleaning and Preprocessing ([Notebook](14-Day/main.ipynb))
 - `Week_3/`: Math and Linear Regression.
   - `Day_15/`: Linear Algebra Basics ([Notebook](15-Day/main.ipynb))
+  - `Day_16/`: Gradient Descent Basics ([Notebook](16-Day/main.ipynb))
 ## 📊 Datasets Used:
 1. Titanic Dataset ([Kaggle](https://www.kaggle.com/c/titanic)).
 2. Boston Housing Dataset ([Kaggle](https://www.kaggle.com/code/prasadperera/the-boston-housing-dataset)).
@@ -50,3 +51,4 @@ Welcome to my 100-day machine learning challenge! This repository documents my j
 | 13  | Outlier Detection                                |   ✅   |
 | 14  | Mini-Project: Dataset Cleaning and Preprocessing |   ✅   |
 | 15  | Linear Algebra Basics                            |   ✅   |
+| 16  | Gradient Descent Basics                          |   ✅   |

@@ -66,3 +66,4 @@ Welcome to my 100-day machine learning challenge! This repository documents my j
 | 18  | Linear Regression with Gradient Descent          |   ✅   |
 | 19  | Regularization (L1,L2)                           |   ✅   |
 | 20  | Linear Regression with multiple features         |   ✅   |
+| 21  | Mini-Project: Linear Regression Pipeline         |   ✅   |
